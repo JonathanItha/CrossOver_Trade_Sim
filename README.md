@@ -1,5 +1,3 @@
-# CrossOver_Trade_Sim
-
 # Cross Over Trade Simulator
 
 ## Overview
